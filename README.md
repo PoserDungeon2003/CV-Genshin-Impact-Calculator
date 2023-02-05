@@ -2,6 +2,10 @@
 
 Just some code to calculate your artifacts. 
 
+**How to use?** 
+
+Click [here](https://github.com/PoserDungeon2003/CV-Genshin-Impact-Calculator/archive/refs/heads/main.zip) to download -> extract the folder -> after you finish go to dist folder and double click  and the CaclCVGenshin.exe --> Now check your artifact gacha result
+
 ![img.png](img.png)
 
 Thank you a user on [r/Genshin_Impact](https://www.reddit.com/r/Genshin_Impact/) for helping me have an idea to start this project
