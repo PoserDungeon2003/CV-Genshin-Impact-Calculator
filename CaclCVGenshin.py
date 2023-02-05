@@ -1,4 +1,4 @@
-def caclCV():
+def rateCV(cv):
     if (cv < 10):
         print("No upgrade")
     elif (cv >= 10 and cv < 20):
@@ -12,9 +12,17 @@ def caclCV():
     else:
         print("is this thing still exists??")
 
-crit_rate = float(input("Enter your crit rate: "))
-crit_damage = float(input("Enter your crit damage: "))
+def caclCV():
+    crit_rate = float(input("Enter your crit rate: "))
+    crit_damage = float(input("Enter your crit damage: "))
 
-cv = crit_damage+(crit_rate)*2
-print(cv)
-caclCV()
+    cv = crit_damage + (crit_rate) * 2
+    print(cv)
+    rateCV(cv)
+
+while(True):
+    caclCV()
+    choice = input("Do you want to caculate another artifact?(Y/N): ").capitalize()
+    if choice!="Y":
+        print("Bye")
+        break;
