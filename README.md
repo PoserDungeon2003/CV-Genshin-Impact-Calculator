@@ -6,7 +6,7 @@ Just some code to calculate your artifacts. Fill up your gambling addiction!!!
 
 **So how do we know what artifact is good for a character?** Thanks to the CV, we are able to rate our artifact and therefore optimize your character's output damage.
 
-**How to use?** 
+**How to use this app?** 
 
 Click [here](https://github.com/PoserDungeon2003/CV-Genshin-Impact-Calculator/archive/refs/heads/main.zip) to download -> extract the folder -> after you finish go to dist folder and double click  and the CaclCVGenshin.exe --> Now check your artifact gacha result
 
