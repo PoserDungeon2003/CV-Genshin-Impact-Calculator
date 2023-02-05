@@ -1,6 +1,6 @@
 **# CV CALCULATOR #**
 
-Just some code to calculate your artifacts. 
+Just some code to calculate your artifacts. Fill up your gambling addiction
 
 **How to use?** 
 
