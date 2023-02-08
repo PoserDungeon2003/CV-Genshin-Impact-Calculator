@@ -19,3 +19,4 @@ Thank you a user on [r/Genshin_Impact](https://www.reddit.com/r/Genshin_Impact/)
 **Change log:** 
 
 5/2/2023: Launch the CV Calculator
+8/2/2023: Add Rating Table
