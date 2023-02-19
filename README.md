@@ -8,7 +8,7 @@ Just some code to calculate your artifacts. Fill up your gambling addiction!!!
 
 **How to use this app?** 
 
-Click [here](https://github.com/PoserDungeon2003/CV-Genshin-Impact-Calculator/archive/refs/heads/main.zip) to download -> extract the folder -> after you finish go to dist folder and double click  and the CaclCVGenshin.exe --> Now check your artifact gacha result
+Click [here](https://github.com/PoserDungeon2003/CV-Genshin-Impact-Calculator/archive/refs/heads/main.zip) to download -> extract the folder -> after you finish go to dist folder --> CaclCVGenshin folder and double click at the CaclCVGenshin.exe --> Now check your artifact gacha result
 
 ![img.png](img.png)
 
